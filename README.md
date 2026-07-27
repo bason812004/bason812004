@@ -16,6 +16,9 @@
 
 <!-- SOCIAL LINKS -->
 <div align="center">
+  <a href="https://bason-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-bason--portfolio.vercel.app-00D26A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
   <a href="mailto:bason812004@gmail.com">
     <img src="https://img.shields.io/badge/Email-bason812004%40gmail.com-00D26A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
@@ -53,6 +56,7 @@ const developer = {
   institution: "Industrial University of Ho Chi Minh City (IUH)",
   location: "Vietnam",
   email: "bason812004@gmail.com",
+  portfolio: "https://bason-portfolio.vercel.app/",
   coreFocus: ["Scalable Web Apps", "REST APIs", "Database Optimization", "Clean Code Architecture"],
   status: "Open to Full Stack & Backend Developer Roles"
 };
@@ -251,6 +255,9 @@ A real-time messaging application delivering instant peer-to-peer and group comm
 <div align="center">
   <p>Feel free to reach out for collaborations, engineering opportunities, or technical discussions!</p>
 
+  <a href="https://bason-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-bason--portfolio.vercel.app-00D26A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:bason812004@gmail.com">
     <img src="https://img.shields.io/badge/Email-bason812004%40gmail.com-00D26A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
