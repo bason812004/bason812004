@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="banner.png" alt="Nguyễn Bá Sơn - Full Stack Developer Banner" width="100%" />
+  <img src="assets/banner.png" alt="Nguyễn Bá Sơn - Full Stack Developer Banner" width="100%" />
 </div>
 
 <br />
