@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="assets/banner.png" alt="Nguyễn Bá Sơn - Full Stack Developer Banner" width="100%" />
+  <img src="banner.png" alt="Nguyễn Bá Sơn - Full Stack Developer Banner" width="100%" />
 </div>
 
 <br />
@@ -152,7 +152,7 @@ A real-time messaging application delivering instant peer-to-peer and group comm
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bason812004&show_icons=true&theme=dark&bg_color=0d1117&title_color=00D26A&text_color=c9d1d9&icon_color=58A6FF&border_color=161b22&hide_border=false" alt="Nguyễn Bá Sơn GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bason812004&show_icons=true&theme=dark&bg_color=0d1117&title_color=00D26A&text_color=c9d1d9&icon_color=58A6FF&border_color=161b22&hide_border=false" alt="Nguyễn Bá Sơn GitHub Stats" />
 </div>
 
 <br />
@@ -161,7 +161,7 @@ A real-time messaging application delivering instant peer-to-peer and group comm
 ## 💻 Top Languages
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bason812004&layout=compact&theme=dark&bg_color=0d1117&title_color=00D26A&text_color=c9d1d9&border_color=161b22&hide_border=false" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bason812004&layout=compact&theme=dark&bg_color=0d1117&title_color=00D26A&text_color=c9d1d9&border_color=161b22&hide_border=false" alt="Top Languages" />
 </div>
 
 <br />
@@ -170,7 +170,7 @@ A real-time messaging application delivering instant peer-to-peer and group comm
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bason812004&theme=dark&background=0D1117&ring=00D26A&fire=00D26A&currStreakNum=58A6FF&currStreakLabel=00D26A&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border=161B22" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=bason812004&theme=dark&background=0D1117&ring=00D26A&fire=00D26A&currStreakNum=58A6FF&currStreakLabel=00D26A&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&border=161B22" alt="GitHub Streak Stats" />
 </div>
 
 <br />
@@ -197,7 +197,7 @@ A real-time messaging application delivering instant peer-to-peer and group comm
 ## 🏆 GitHub Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bason812004&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophy" />
+  <img src="https://github-readme-trophy.vercel.app/?username=bason812004&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophy" />
 </div>
 
 <br />
@@ -206,7 +206,7 @@ A real-time messaging application delivering instant peer-to-peer and group comm
 ## ⏱️ WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bason812004&theme=dark&bg_color=0d1117&title_color=00D26A&text_color=c9d1d9&icon_color=58A6FF&border_color=161b22" alt="WakaTime Coding Time" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=bason812004&theme=dark&bg_color=0d1117&title_color=00D26A&text_color=c9d1d9&icon_color=58A6FF&border_color=161b22" alt="WakaTime Coding Time" />
 </div>
 
 <br />
